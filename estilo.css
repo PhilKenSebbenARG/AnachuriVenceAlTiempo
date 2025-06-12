@@ -1,7 +1,11 @@
 body {
   margin: 0;
   font-family: 'Press Start 2P', monospace;
-  background-color: #000000;
+  background: url("https://cdna.artstation.com/p/assets/images/images/047/160/908/original/pxsprite-space.gif?1646911392");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
   color: #00ffff;
   padding: 20px;
   text-shadow: 0 0 5px #00ffff;
